@@ -12,15 +12,15 @@ API_ID = int(getenv("API_ID", 27798659))
 API_HASH = getenv("API_HASH", "26100c77cee02e5e34b2bbee58440f86")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-OWNER_ID = int(getenv("OWNER_ID", 7044783841))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "CertifiedCoder")
-BOT_USERNAME = getenv("BOT_USERNAME", "AnnieXRobot")
-BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
+OWNER_ID = int(getenv("OWNER_ID", 7832349983)
+OWNER_USERNAME = getenv("OWNER_USERNAME", "axyowner")
+BOT_USERNAME = getenv("BOT_USERNAME", "bmwsongbot")
+BOT_NAME = getenv("BOT_NAME", "˹BMW ✘ 𝙼ᴜsɪᴄ˼ ♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "musicxannie")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
-MONGO_DB_URI = getenv("MONGO_DB_URI")
-LOGGER_ID = int(getenv("LOGGER_ID", -1002014167331))
+MONGO_DB_URI = getenv("MONGO_DB_URI",mongodb+srv://knight_rider:GODGURU12345@knight.jm59gu9.mongodb.net/?retryWrites=true&w=majority)))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003601301106))
 
 # ── Limits (durations in min/sec; sizes in bytes) ──────────────────────────────
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 300))
@@ -47,8 +47,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────────
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CertifiedNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CertifiedDiscussion")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Axynetwork")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Axychats")
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
 AUTO_LEAVING_ASSISTANT = False
