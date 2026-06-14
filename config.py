@@ -19,7 +19,7 @@ BOT_NAME = getenv("BOT_NAME", "˹BMW ✘ 𝙼ᴜsɪᴄ˼ ♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "musicxannie")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
-MONGO_DB_URI = getenv("MONGO_DB_URI",mongodb+srv://knight_rider:GODGURU12345@knight.jm59gu9.mongodb.net/?retryWrites=true&w=majority)))
+MONGO_DB_URI = getenv("MONGO_DB_URI",mongodb+srv://akashrajput010208:qy9qMomvLOpbegOP@cluster0.21upfwm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0)))
 LOGGER_ID = int(getenv("LOGGER_ID", -1003601301106))
 
 # ── Limits (durations in min/sec; sizes in bytes) ──────────────────────────────
@@ -62,7 +62,7 @@ SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "22b6125bfe224587b722d6815002db2
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "c9c63c6fbf2f467c8bc68624851e9773")
 
 # ── Session strings (optional) ─────────────────────────────────────────────────
-STRING1 = getenv("STRING_SESSION")
+STRING1 = getenv("BQIh6REArTSBgv6Q1RTC1qw3sC5K9EMoEPJKibcxnmQw6BHl-krnarl2blmzXjNVL5pmMBoL9nsYC8hUtbr0Nuf5lBVqABOLGdqmbKHJIlHmMvalm5vUZkBRqXQzPfRohTHiSi9BrdtYMNXyQS9aAnzKGI4cfIORQdlNeZNmsKq8qjDudH04DFiJTzgF44uLQFve8ddfFT9eOmQjpCNkM0hZRGk8aI7z_MdBaeWcs2_YMpsoxFnEhs3gggQzPf2s8a-dNmHXHgYiq_DoZ1xtIpI8kZET_aLmFgh0OvhBFvP1j50n0TLdsovPR6lZ-eOjW2l_k4ThvLQdP-FiqGQ616xAdEjG4QAAAAHHwm12AA")
 STRING2 = getenv("STRING_SESSION2")
 STRING3 = getenv("STRING_SESSION3")
 STRING4 = getenv("STRING_SESSION4")
