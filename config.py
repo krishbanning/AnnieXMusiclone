@@ -19,7 +19,7 @@ BOT_NAME = getenv("BOT_NAME", "˹BMW ✘ 𝙼ᴜsɪᴄ˼ ♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "musicxannie")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
-MONGO_DB_URI = getenv("MONGO_DB_URI",mongodb+srv://akashrajput010208:qy9qMomvLOpbegOP@cluster0.21upfwm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0)))
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://akashrajput010208:qy9qMomvLOpbegOP@cluster0.21upfwm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 LOGGER_ID = int(getenv("LOGGER_ID", -1003601301106))
 
 # ── Limits (durations in min/sec; sizes in bytes) ──────────────────────────────
