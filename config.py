@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH", "26100c77cee02e5e34b2bbee58440f86")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 OWNER_ID = int(getenv("OWNER_ID", "7832349983"))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "axyowner")
-BOT_USERNAME = getenv("BOT_USERNAME", "bmwsongbot")
-BOT_NAME = getenv("BOT_NAME", "˹BMW ✘ 𝙼ᴜsɪᴄ˼ ♪")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "onlykrishu")
+BOT_USERNAME = getenv("BOT_USERNAME", "wynksongbot")
+BOT_NAME = getenv("BOT_NAME", "˹ Wყᥒk ✘ 𝙼ᴜsɪᴄ˼ ♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "musicxannie")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
@@ -62,7 +62,7 @@ SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "22b6125bfe224587b722d6815002db2
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "c9c63c6fbf2f467c8bc68624851e9773")
 
 # ── Session strings (optional) ─────────────────────────────────────────────────
-STRING1 = getenv("BQIh6REArTSBgv6Q1RTC1qw3sC5K9EMoEPJKibcxnmQw6BHl-krnarl2blmzXjNVL5pmMBoL9nsYC8hUtbr0Nuf5lBVqABOLGdqmbKHJIlHmMvalm5vUZkBRqXQzPfRohTHiSi9BrdtYMNXyQS9aAnzKGI4cfIORQdlNeZNmsKq8qjDudH04DFiJTzgF44uLQFve8ddfFT9eOmQjpCNkM0hZRGk8aI7z_MdBaeWcs2_YMpsoxFnEhs3gggQzPf2s8a-dNmHXHgYiq_DoZ1xtIpI8kZET_aLmFgh0OvhBFvP1j50n0TLdsovPR6lZ-eOjW2l_k4ThvLQdP-FiqGQ616xAdEjG4QAAAAHHwm12AA")
+STRING1 = getenv("AQHvdmIAFjWVkQnPvMWmJiwTctTc8VlNlckaB_0AwPY4ejR3d36len7LZ9iXDdfeC54AkGK741pO9uLU0IhAR-HhMf7NuuXbl5buaGLlQtGR50-gKpbvKNiB4Wlxu4kGAgUUw6qUN0owKQ0UKZf47ptenFzTLI7BEGuV9LqeEd1ilC6YWpw5zc33J3wvjAuE-QgA0w-3tEp35ZLRo9--047C4Nzo92cJiuTqfkOHL6nQmRvpx1ED01S--lXxgUINlG0INVewD54BYE-ox2vndUuJLwOXzsWtdg_yrlXEEHYqC_xe-koRD_ByZSb2pYJWJuCywf24KHogzmZdtJuT2J3DFHcy7gAAAAIOitkAAA")
 STRING2 = getenv("STRING_SESSION2")
 STRING3 = getenv("STRING_SESSION3")
 STRING4 = getenv("STRING_SESSION4")
